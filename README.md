@@ -37,4 +37,4 @@
    php artisan serve **или настройте корень хоста на папку public**
    ```
 **Пример запроса для API:**
-***http://127.0.0.1:8000/api/products?properties[цвет][]=зелёный&properties[цвет][]=красный***
+`http://127.0.0.1:8000/api/products?properties[цвет][]=зелёный&properties[цвет][]=красный`
